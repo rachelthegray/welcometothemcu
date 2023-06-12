@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Welcome to the MCU</string>
+    <string name="add_marvel">Add Character</string>
+
+    <string name="loki_name">Loki</string>
+    <string name="tony_name">Tony Stark</string>
+    <string name="thanos_name">Thanos</string>
+    <string name="doctor_strange_name">Doctor Strange</string>
+    <string name="scarlet_witch_name">Scarlet Witch</string>
+    <string name="hulk_name">Hulk</string>
+    <string name="captain_america_name">Captain America</string>
+    <string name="hawkeye_name">Hawkeye</string>
+    <string name="black_widow_name">Black Widow</string>
+    <string name="thor_name">Thor</string>
+
+    <string name="loki_description">Loki Laufeyson, known by adoption as Loki Odinson and by his title as the God of Mischief, is a fictional character portrayed by Tom Hiddleston in the Marvel Cinematic Universe (MCU) media franchise, based on the Marvel Comics character of the same name and the Norse mythological god of the same name.</string>
+    <string name="tony_description">Anthony Edward Stark is a fictional character primarily portrayed by Robert Downey Jr. in the Marvel Cinematic Universe (MCU) media franchise—based on the Marvel Comics character of the same name—commonly known by his alias, Iron Man. Stark is initially depicted as an industrialist, genius inventor, and playboy who is CEO of Stark Industries.</string>
+    <string name="thanos_description">Thanos is a fictional character portrayed primarily by Josh Brolin in the Marvel Cinematic Universe (MCU) media franchise, based on the Marvel Comics supervillain of the same name. Thanos is depicted as an alien warlord from the doomed planet Titan with a universe-spanning agenda to wipe out half of all life to stabilize overpopulation and prevent what he views as life\'s inevitable extinction.</string>
+    <string name="doctor_strange_description">Stephen Strange is a fictional character portrayed by Benedict Cumberbatch in the Marvel Cinematic Universe (MCU) media franchise—based on the Marvel Comics character of the same name—commonly known by his academic title and alias—Doctor Strange. Initially depicted as a brilliant but arrogant neurosurgeon, Strange experiences a career-ending car accident and in his search to repair his damaged hands, he discovers magic from Kamar-Taj.</string>
+    <string name="scarlet_witch_description">Wanda Maximoff is a fictional character primarily portrayed by Elizabeth Olsen in the Marvel Cinematic Universe (MCU) media franchise based on the Marvel Comics character of the same name. Wanda is initially depicted as a Sokovian refugee who, along with her twin brother Pietro, volunteers to be experimented on by Hydra. The Mind Stone amplifies her natural telekinetic and energy manipulation abilities known as Chaos magic.</string>
+    <string name="hulk_description">Bruce Banner is a fictional character in the Marvel Cinematic Universe (MCU) media franchise originally portrayed by Edward Norton and subsequently by Mark Ruffalo—based on the Marvel Comics character of the same name—known commonly by his alter ego, the Hulk. Banner is depicted as a genius physicist who after a failed experiment to replicate a super soldier program using gamma radiation, transforms into a large, muscular creature with green skin whenever his heart rate goes above 200 beats per minute or when facing mortal danger.</string>
+    <string name="captain_america_description">Steven Grant Rogers, more commonly known as Steve Rogers, is a fictional character primarily portrayed by Chris Evans in the Marvel Cinematic Universe (MCU) media franchise—based on the Marvel Comics character of the same name—commonly known by his alias, Captain America. Rogers is depicted as a World War II-era super soldier who was given a serum that provided him with superhuman abilities including enhanced durability, strength, and athleticism.</string>
+    <string name="hawkeye_description">Clinton Francis Barton is a fictional character portrayed by Jeremy Renner in the Marvel Cinematic Universe (MCU) media franchise—based on the Marvel Comics character of the same name—more commonly known by his alias, Hawkeye. Barton is depicted as an expert marksman, archer and hand-to-hand combatant, with his preferred weapon being a recurve bow.</string>
+    <string name="black_widow_description">Natalia Alianovna Romanov (Russian: Наталья Альяновна Романов), more commonly known as Natasha Romanoff (Russian: Наташа Романова), is a fictional character primarily portrayed by Scarlett Johansson in the Marvel Cinematic Universe (MCU) media franchise—based on the Marvel Comics character of the same name—sometimes known by her alias, Black Widow. Romanoff was depicted as an expert spy and hand-to-hand combatant, trained in the Red Room from childhood to be a KGB assassin.</string>
+    <string name="thor_description">Thor Odinson, known sometimes by his title as the God of Thunder, is a fictional character portrayed by Chris Hemsworth in the Marvel Cinematic Universe (MCU) media franchise, based on the Marvel Comics character of the same name and the Norse mythological god of the same name. In the MCU, he is depicted as one of the most powerful Asgardians, an ancient alien civilization with long ties to Earth, who humans consider to be gods.</string>
+
+    <string name="marvel_description_edit_text">Marvel Description</string>
+    <string name="marvel_name_edit_text">Marvel Name</string>
+    <string name="done_button_text">Done</string>
+    <string name="fab_content_description">fab</string>
+    <string name="marvel_image_content_description">Image of Marvel</string>
+    <string name="remove_this_marvel">Remove this Marvel</string>
+
+</resources>
